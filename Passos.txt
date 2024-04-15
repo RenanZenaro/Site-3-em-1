@@ -4,8 +4,8 @@ git config --global user.email renanzenaro@hotmail.com
 
 
 Criar um projeto MVC:
-dotnet new mvc -o Pokedex (caso já tenha a pasta não precisa fazer)
+dotnet new mvc -o Site3em1 (caso já tenha a pasta não precisa fazer)
 
 Para executar o projeto:
-cd Bands
+cd Site3em1
 dotnet watch run
